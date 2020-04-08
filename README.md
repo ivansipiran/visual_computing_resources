@@ -1,1 +1,1 @@
-# visual_computing_resources
+# Resources for the course Visual Computing
